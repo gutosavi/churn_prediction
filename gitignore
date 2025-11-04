@@ -1,0 +1,9 @@
+# Ambiente Virtual
+.venv/
+
+# Jupyter Notebook e Caches
+**/.ipynb_checkpoints/
+
+# Artefatos do Sistema
+.DS_Store
+Thumbs.db
