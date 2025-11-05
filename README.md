@@ -1,4 +1,4 @@
-#### Predições Churn — Model Fitness
+# Predições Churn — Model Fitness
 
 
 ## Projeto de Análise e Predição de Rotatividade de Clientes
@@ -78,7 +78,7 @@ Desempenho (melhor modelo — Regressão Logística):
 - Portanto, este modelo é o mais indicado para uso prático, oferecendo bom equilíbrio entre precisão e sensibilidade na identificação de clientes em risco de churn.
 
 
-### Taxa de Rotatividade por Cluster
+## Taxa de Rotatividade por Cluster
 
 Com base na variável `Churn`, identificamos os seguintes comportamentos de saída por agrupamento:
 
